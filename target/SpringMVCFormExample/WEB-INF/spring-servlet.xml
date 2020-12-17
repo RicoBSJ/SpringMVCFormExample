@@ -15,7 +15,7 @@
         <property name="driverClassName" value="org.postgresql.Driver" />
         <property value="jdbc:postgresql://localhost:5432/formExample" name="url"/>
         <property name="username" value="postgres" />
-        <property name="password" value="Px!Au6365" />
+        <property name="password" value="postgres" />
     </bean>
 
     <bean class="org.springframework.jdbc.core.JdbcTemplate" id="jt">
