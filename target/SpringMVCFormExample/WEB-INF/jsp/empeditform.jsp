@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 
 <h1>Edit Employee</h1>
-<form:form method="POST" action="/SpringMVCFormExample/editsave">
+<form:form method="POST" action="/SpringMVCFormExample_war_exploded/editsave">
     <table >
         <tr>
             <td></td>
